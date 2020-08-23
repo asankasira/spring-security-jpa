@@ -15,6 +15,7 @@
 	<description>Use spring security with JPA</description>
 
 	<properties>
+	    <!-- OpenJdk 14 -->
 		<java.version>14</java.version>
 	</properties>
 
